@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Недвижимость (FreedomUI)" />
+			<Item Name="Columns.UsrArea.Caption" Value="Площадь, m2" />
+			<Item Name="Columns.UsrCity.Caption" Value="Город" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Менеджер" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Цена, USD" />
+			<Item Name="Columns.UsrComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.UsrCommisionUSD.Caption" Value="Коммиссия, USD" />
+			<Item Name="Columns.UsrCountry.Caption" Value="Страна" />
+			<Item Name="Columns.UsrManager.Caption" Value="Выпадающий список 1" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOfferType.Caption" Value="Тип предложения" />
+			<Item Name="Columns.UsrType.Caption" Value="Тип недвижимости" />
+		</Items>
+	</Group>
+</Resources>

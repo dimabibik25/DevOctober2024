@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.19fdb213-01e6-71e7-87c6-56f3615d951c.Caption" Value="Бизнес правило" />
+			<Item Name="Caption" Value="Страница записи Недвижимость (FreedomUI) (Бизнес правила)" />
+		</Items>
+	</Group>
+</Resources>

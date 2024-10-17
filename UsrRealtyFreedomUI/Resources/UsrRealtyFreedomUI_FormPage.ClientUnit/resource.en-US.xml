@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Недвижимость (FreedomUI) form page" />
+			<Item Name="LocalizableStrings.addRecord_02m86bw_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_4r7l8eq_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_ft104o1_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_hrfug8z_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_ub1bct0_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_uno1dhv_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_wnfvb10_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_xx5ppf9_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.Button_8pcbw8f_caption.Value" Value="Пыщь!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_dkplvht_title.Value" Value="Просмотр недвижимости FreedomUI" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_a4aullx_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_1oj7izt_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_4x73atn_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_lfnk57u_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_7vfhx95_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_dig0fkr_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NumberInput_m4fgdvi_label.Value" Value="Число" />
+			<Item Name="LocalizableStrings.UsrType_placeholder.Value" Value="укажите тип недвижимости" />
+			<Item Name="LocalizableStrings.UsrType_tooltip.Value" Value="Недвижимость бывает разная" />
+			<Item Name="Parameters.10fa2e44-5067-86c2-0192-8e9ea84257f7.Caption" Value="Менеджер" />
+		</Items>
+	</Group>
+</Resources>
